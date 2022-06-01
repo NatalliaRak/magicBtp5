@@ -8,7 +8,7 @@ color: white!important;
 }
 
 .main {
-	background-image: url("img/main.png");
+	background-image: url("https://user-images.githubusercontent.com/106593583/171399777-4eaa8306-4ffb-4cd9-ad92-0933d6b4be81.png");
 	background-size: cover;
 	background-attachment: fixed;
 	background-repeat: no-repeat;
@@ -128,7 +128,7 @@ form button{
 
 
   .feature {
-    background-image: url("img/3.png");
+    background-image: url("https://user-images.githubusercontent.com/106593583/171399936-7c3d6281-aef4-4cc8-8832-36d629f6c772.png");
     background-size: cover;
     background-repeat: no-repeat;
     height: auto;
@@ -297,7 +297,7 @@ form button{
 }
 
 .five {
-  	background-image: url("img/main.png");
+  	background-image: url("https://user-images.githubusercontent.com/106593583/171399777-4eaa8306-4ffb-4cd9-ad92-0933d6b4be81.png");
   	background-size: cover;
   	background-attachment: fixed;
   	background-repeat: no-repeat;
