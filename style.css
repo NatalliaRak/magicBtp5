@@ -8,7 +8,7 @@ color: white!important;
 }
 
 .main {
-	background-image: url("https://user-images.githubusercontent.com/106593583/171399777-4eaa8306-4ffb-4cd9-ad92-0933d6b4be81.png");
+	background-image: url("https://user-images.githubusercontent.com/106593583/171625003-f43c84bc-905c-4ff4-a3dd-1ed512034ba8.png");
 	background-size: cover;
 	background-attachment: fixed;
 	background-repeat: no-repeat;
@@ -128,7 +128,7 @@ form button{
 
 
   .feature {
-    background-image: url("https://user-images.githubusercontent.com/106593583/171399936-7c3d6281-aef4-4cc8-8832-36d629f6c772.png");
+    background-image: url("https://user-images.githubusercontent.com/106593583/171628134-67ce2a7f-d619-4482-8adf-a9d34b4a6128.png");
     background-size: cover;
     background-repeat: no-repeat;
     height: auto;
@@ -242,7 +242,7 @@ form button{
   animation-timing-function: ease;
 }
 .four {
-  background-image: url("img/four.png");
+  background-image: url("https://user-images.githubusercontent.com/106593583/171628451-d3372c09-7a61-41bf-bfec-51c82015521f.png");
   background-size: cover;
   background-repeat: no-repeat;
   height: auto;
@@ -297,7 +297,7 @@ form button{
 }
 
 .five {
-  	background-image: url("https://user-images.githubusercontent.com/106593583/171399777-4eaa8306-4ffb-4cd9-ad92-0933d6b4be81.png");
+  	background-image: url("img/main.png");
   	background-size: cover;
   	background-attachment: fixed;
   	background-repeat: no-repeat;
